@@ -25,11 +25,11 @@ A React-based web application designed to facilitate online exams, quizzes, and 
    ```
 2. **Install Dependencies**
   ```bash
-  npm install
+   npm install
   ```
 3. **Run the App**
   ```bash
-  npm start
+   npm start
   ```
   The app will run locally at http://localhost:3000.
 
