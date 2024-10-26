@@ -24,13 +24,13 @@ A React-based web application designed to facilitate online exams, quizzes, and 
    cd online_exam_web
    ```
 2. **Install Dependencies**
-  ```bash
+   ```bash
    npm install
-  ```
+   ```
 3. **Run the App**
-  ```bash
-   npm start
-  ```
+     ```bash
+     npm start
+     ```
   The app will run locally at http://localhost:3000.
 
 ## Project Structure
